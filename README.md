@@ -36,44 +36,44 @@ A place for projects, ideas, and apps.
 Free fast TV on the internet
 Vanilla JS, a little jQuery and Semantic UI. Android support. iOS support now available.
 
-[Ooglebox](https://ooglebox.com)
+<https://ooglebox.com>
 
 #### Futures We Imagine
 
 International Committee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow
 React, TypeScript, AirTable, USDZ
 
-[Futures We Imagine](https://futuresweimagine.com)
+<https://futuresweimagine.com>
 
 #### Giglist
 
 Gigs in a list. Perth's most comprehensive live music listing.
 React, TypeScript, PHP, WordPress
 
-[Giglist](https://giglist.com.au)
+<https://giglist.com.au>
 
 #### Whiplash
 
 Test suing HandtrackJS, VanillaJS 
 
-[Whiplash](https://americanparallel.com/whiplash)
+<https://americanparallel.com/whiplash>
 
 #### Speech to image test between OpenAI and Unsplash
 
 Using webkit speech recognition to request images from both OpenAI and Unsplash. 
 The images are then displayed side by side. Each request is timed and the results are displayed.
 
-[Speech to image test](https://americanparallel.com/speechtoimage/)
+<https://americanparallel.com/speechtoimage>
 
 #### React Three Fiber (ThreeJS) Tests using canvas and mp4 video
 
 Using JavaScript to scan the image (or video press play) after converting it to a canvas element, then scans each pixel in real time to create a box or sphere primitive using the hue as z. Use the mouse for Orbit Controls.
 
-[Heads](https://americanparallel.com/r3f/heads)
+<https://americanparallel.com/r3f/heads>
 
-[Star Wars](https://americanparallel.com/r3f/starwars)
+<https://americanparallel.com/r3f/starwars>
 
-[Test Pattern](https://americanparallel.com/r3f/testpattern)
+<https://americanparallel.com/r3f/testpattern>
 
 #### Jeopardy! 
 
@@ -81,16 +81,16 @@ Game using Vanilla JS, jQuery, HTML, and CSS. Express, Node, and Socket.io for t
 
 Uses webkit speech recognition and speech generation to play the game. Once in the game simply ask for category followed by dollar value. For example "Rock Records for 200". Answers are given in the form of a question. For example "What is ..." or "Who is ..." etc. May require a refresh if questions aren't displayed due to 429 (too many requests).
 
-[Jeopardy! Game](https://jeopardynow.com)
+<https://jeopardynow.com>
 
 #### Dashboard example for a company using ThreeJS, NodeJS, and Semantic UI.
 
 This was a demo created for Convatech which is a mining company. The dashboard is a concept design for an app that would be used by operators on the field to interact with IoT sensors and devices. The dashboard is a 3D representation of the end to end conveyor system. The user can click on the sections and use an exploded view to get more information. A greater vision was to be able to deploy drones to inspect the system and then display the results in the dashboard.
 
-[Dashboard](http://lukecleland.com/convatech/)
+<http://lukecleland.com/convatech>
 
 #### Sandwiches
 
 A simple app that listens to what you say and completes the sentence.
 
-[Sandwiches](https://americanparallel.com/sandwiches/)
+<https://americanparallel.com/sandwiches>
