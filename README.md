@@ -33,6 +33,12 @@ A place for projects, ideas, and apps
 
 <https://ooglebox.com>
 
+## Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
+
+<https://futuresweimagine.com>
+
+Uses React, AirTable, USDZ
+
 ### Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
 
 <https://americanparallel.com/whiplash>
