@@ -25,7 +25,7 @@
 ![image](https://img.shields.io/badge/react%20table-FF4154?style=for-the-badge&logo=react%20table&logoColor=white)
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
-## Full Stack Development Software Engineer.
+### Full Stack Development Software Engineer.
 
 A place for projects, ideas, and apps
 
@@ -33,13 +33,13 @@ A place for projects, ideas, and apps
 
 <https://ooglebox.com>
 
-## Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
+### Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
 
 <https://futuresweimagine.com>
 
 Uses React, AirTable, USDZ
 
-## Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
+### Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
 
 <https://americanparallel.com/whiplash>
 
