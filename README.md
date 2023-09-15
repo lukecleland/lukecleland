@@ -31,14 +31,18 @@ A place for projects, ideas, and apps.
 
 ### Latest projects
 
-#### Ooglebox
+### Ooglebox
 Free fast TV on the internet
+
 Vanilla JS, a little jQuery and Semantic UI. Android support. iOS support now available.
+
 <https://ooglebox.com>
 
-#### Futures We Imagine
+### Futures We Imagine
 International Committee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow
+
 React, TypeScript, AirTable, USDZ
+
 <https://futuresweimagine.com>
 
 #### Giglist
