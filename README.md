@@ -27,7 +27,7 @@
 
 # Full Stack Development Software Engineer.
 
-## A place for projects, ideas, and apps
+A place for projects, ideas, and apps
 
 ### Latest projects
 
