@@ -29,7 +29,7 @@
 
 A place for projects, ideas, and apps.
 
-### Latest projects
+# Latest projects
 
 ### Ooglebox
 Free fast TV on the internet
