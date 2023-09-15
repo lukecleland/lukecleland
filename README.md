@@ -34,36 +34,34 @@ A place for projects, ideas, and apps.
 #### Ooglebox
 
 Free fast TV on the internet
+Vanilla JS, a little jQuery and Semantic UI. Android support. iOS support now available.
 
 [Ooglebox](https://ooglebox.com)
 
-Vanilla JS, a little jQuery and Semantic UI. Android support. iOS support now available.
-
 #### Futures We Imagine
 
-International Committee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow.
+International Committee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow
+React, TypeScript, AirTable, USDZ
 
 [Futures We Imagine](https://futuresweimagine.com)
-
-React, TypeScript, AirTable, USDZ
 
 #### Giglist
 
 Gigs in a list. Perth's most comprehensive live music listing.
-
-Using React, TypeScript, PHP, WordPress
+React, TypeScript, PHP, WordPress
 
 [Giglist](https://giglist.com.au)
 
 #### Whiplash
 
-Test suing HandtrackJS [Whiplash](https://americanparallel.com/whiplash)
+Test suing HandtrackJS, VanillaJS 
 
-VanillaJS, HandtrackJS
+[Whiplash](https://americanparallel.com/whiplash)
 
 #### Speech to image test between OpenAI and Unsplash
 
-Using webkit speech recognition to request images from both OpenAI and Unsplash. The images are then displayed side by side. Each request is timed and the results are displayed.
+Using webkit speech recognition to request images from both OpenAI and Unsplash. 
+The images are then displayed side by side. Each request is timed and the results are displayed.
 
 [Speech to image test](https://americanparallel.com/speechtoimage/)
 
@@ -77,7 +75,9 @@ Using JavaScript to scan the image (or video press play) after converting it to 
 
 [Test Pattern](https://americanparallel.com/r3f/testpattern)
 
-#### Jeopardy! Game using Vanilla JS, jQuery, HTML, and CSS. Express, Node, and Socket.io for the backend.
+#### Jeopardy! 
+
+Game using Vanilla JS, jQuery, HTML, and CSS. Express, Node, and Socket.io for the backend.
 
 Uses webkit speech recognition and speech generation to play the game. Once in the game simply ask for category followed by dollar value. For example "Rock Records for 200". Answers are given in the form of a question. For example "What is ..." or "Who is ..." etc. May require a refresh if questions aren't displayed due to 429 (too many requests).
 
