@@ -31,7 +31,7 @@ A place for projects, ideas, and apps
 
 ### Ooglebox. Free fast TV on the internet. Using Vanilla, React, Redux and Semantic UI. Android supprt. iOS support now available.
 
-<http://ooglebox.com>
+<https://ooglebox.com>
 
 ### Handtracker test using https://github.com/victordibia/handtrack.js
 
