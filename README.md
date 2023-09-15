@@ -35,11 +35,11 @@ Latest projects
 
 Free fast TV on the internet. Using Vanilla JS, a little jQuery and Semantic UI. Android supprt. iOS support now available.
 
-### <https://ooglebox.com>
+<https://ooglebox.com>
 
 ## Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
 
-### <https://futuresweimagine.com>
+<https://futuresweimagine.com>
 
 ## Uses React, TypeScript, AirTable, USDZ
 
