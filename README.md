@@ -34,7 +34,6 @@ A place for projects, ideas, and apps
 ### Ooglebox
 Free fast TV on the internet
 VanillaJS, a little jQuery and SemanticUI. Android and iOS support now available
-
 <https://ooglebox.com>
 
 ### Futures We Imagine
