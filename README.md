@@ -37,11 +37,13 @@ Free fast TV on the internet. Using Vanilla JS, a little jQuery and Semantic UI.
 
 <https://ooglebox.com>
 
-## Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
+## Futures We Imagine
+
+International Commitee of the Red Cross initiative for Solferino Academy. Enpowering youth from around the world to predict tomorrows world.
 
 <https://futuresweimagine.com>
 
-## Uses React, TypeScript, AirTable, USDZ
+### Uses React, TypeScript, AirTable, USDZ
 
 # Giglist. Gigs in a list. Perth's most comprehensive live music listing. 
 
