@@ -33,8 +33,11 @@ A place for projects, ideas, and apps
 
 ### Ooglebox
 Free fast TV on the internet
+
 VanillaJS, a little jQuery and SemanticUI. Android and iOS support now available
+
 <https://ooglebox.com>
+
 
 ### Futures We Imagine
 International Committee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow
@@ -42,6 +45,7 @@ International Committee of the Red Cross initiative for Solferino Academy. Empow
 React, TypeScript, AirTable, USDZ
 
 <https://futuresweimagine.com>
+
 
 ### Giglist
 Gigs in a list. Perth's most comprehensive live music listing
@@ -55,11 +59,13 @@ Test suing HandtrackJS, VanillaJS
 
 <https://americanparallel.com/whiplash>
 
+
 ### Speech to image test between OpenAI and Unsplash
 Using webkit speech recognition to request images from both OpenAI and Unsplash. 
 The images are then displayed side by side. Each request is timed and the results are displayed.
 
 <https://americanparallel.com/speechtoimage>
+
 
 ### React Three Fiber (ThreeJS) Tests using canvas and mp4 video
 Using JavaScript to scan the image (or video press play) after converting it to a canvas element, then scans each pixel in real time to create a box or sphere primitive using the hue as z. Use the mouse for Orbit Controls.
@@ -77,10 +83,15 @@ Uses webkit speech recognition and speech generation to play the game. Once in t
 
 <https://jeopardynow.com>
 
+
 ### Convatech
 This was a demo created for Convatech which is a mining company. The dashboard is a concept design for an app that would be used by operators on the field to interact with IoT sensors and devices. The dashboard is a 3D representation of the end to end conveyor system. The user can click on the sections and use an exploded view to get more information. A greater vision was to be able to deploy drones to inspect the system and then display the results in the dashboard.
+
 <http://lukecleland.com/convatech>
 
 ### Sandwiches
 A simple app that listens to what you say and completes the sentence.
+
 <https://americanparallel.com/sandwiches>
+
+
