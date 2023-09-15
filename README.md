@@ -45,7 +45,7 @@ React, TypeScript, AirTable, USDZ
 
 <https://futuresweimagine.com>
 
-#### Giglist
+### Giglist
 Gigs in a list. Perth's most comprehensive live music listing.
 React, TypeScript, PHP, WordPress
 <https://giglist.com.au>
