@@ -33,7 +33,7 @@ A place for projects, ideas, and apps
 
 <https://ooglebox.com>
 
-### Handtracker test
+### Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
 
 <https://americanparallel.com/whiplash>
 
