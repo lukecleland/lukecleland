@@ -34,7 +34,7 @@ A place for projects, ideas, and apps.
 ### Ooglebox
 Free fast TV on the internet
 
-Vanilla JS, a little jQuery and Semantic UI. Android support. iOS support now available.
+VanillaJS, a little jQuery and SemanticUI. Android and iOS support now available
 
 <https://ooglebox.com>
 
