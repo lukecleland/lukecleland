@@ -29,7 +29,7 @@
 
 A place for projects, ideas, and apps
 
-### Ooglebox. Free fast TV on the internet. Using Javescript, a little jQuery and Semantic UI. Android supprt. iOS support now available.
+### Ooglebox. Free fast TV on the internet. Using Vanilla JS, a little jQuery and Semantic UI. Android supprt. iOS support now available.
 
 <https://ooglebox.com>
 
