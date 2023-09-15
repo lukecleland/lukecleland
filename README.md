@@ -35,7 +35,7 @@ A place for projects, ideas, and apps
 
 ### Handtracker test using https://github.com/victordibia/handtrack.js
 
-<a href="https://americanparallel.com/whiplash/" target="_blank">https://americanparallel.com/whiplash/</a>
+<https://americanparallel.com/whiplash>
 
 Uses handtrack.js to track the hand and then uses the hand position to control the start/stop of the video. The only question is... Were you rushing or dragging?
 
