@@ -37,7 +37,13 @@ A place for projects, ideas, and apps
 
 <https://futuresweimagine.com>
 
-Uses React, AirTable, USDZ
+Uses React, TypeScript, AirTable, USDZ
+
+### Giglist. Gigs in a list. Perth's most comprehensive live music listing. 
+
+<https://giglist.com.au>
+
+Using React, TypeScript, PHP, WordPress
 
 ### Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
 
