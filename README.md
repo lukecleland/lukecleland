@@ -67,8 +67,11 @@ The images are then displayed side by side. Each request is timed and the result
 Using JavaScript to scan the image (or video press play) after converting it to a canvas element, then scans each pixel in real time to create a box or sphere primitive using the hue as z. Use the mouse for Orbit Controls.
 
 <https://americanparallel.com/r3f/heads>
+
 <https://americanparallel.com/r3f/starwars>
+
 <https://americanparallel.com/r3f/testpattern>
+
 
 ### Jeopardy! 
 Game using Vanilla JS, jQuery, HTML, and CSS. Express, Node, and Socket.io for the backend.
