@@ -33,27 +33,33 @@ A place for projects, ideas, and apps
 
 ## Ooglebox
 
-Free fast TV on the internet. Using Vanilla JS, a little jQuery and Semantic UI. Android supprt. iOS support now available.
+Free fast TV on the internet
 
 <https://ooglebox.com>
 
+Vanilla JS, a little jQuery and Semantic UI. Android supprt. iOS support now available.
+
 ## Futures We Imagine
 
-International Commitee of the Red Cross initiative for Solferino Academy. Enpowering youth from around the world to predict tomorrows world.
+International Commitee of the Red Cross initiative for Solferino Academy. Empowering youth from around the world to predict tomorrow.
 
 <https://futuresweimagine.com>
 
-### Uses React, TypeScript, AirTable, USDZ
+React, TypeScript, AirTable, USDZ
 
-# Giglist. Gigs in a list. Perth's most comprehensive live music listing. 
+## Giglist
+
+Gigs in a list. Perth's most comprehensive live music listing. 
 
 ## Using React, TypeScript, PHP, WordPress
 
 <https://giglist.com.au>
 
-# Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
+## Whiplash
 
-## VanillaJS, HandtrackJS
+Test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
+
+VanillaJS, HandtrackJS
 
 ### <https://americanparallel.com/whiplash>
 
