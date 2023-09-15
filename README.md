@@ -27,29 +27,33 @@
 
 # Full Stack Development Software Engineer.
 
-A place for projects, ideas, and apps
+## A place for projects, ideas, and apps
 
-### Ooglebox
+### Latest projects
+
+# Ooglebox
 
 ## Free fast TV on the internet. Using Vanilla JS, a little jQuery and Semantic UI. Android supprt. iOS support now available.
 
-# <https://ooglebox.com>
+### <https://ooglebox.com>
 
-### Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
+## Futures We Imagine. International Commitee of the Red Cross initiative for Solferino Academy.
 
-<https://futuresweimagine.com>
+### <https://futuresweimagine.com>
 
-Uses React, TypeScript, AirTable, USDZ
+## Uses React, TypeScript, AirTable, USDZ
 
-### Giglist. Gigs in a list. Perth's most comprehensive live music listing. 
+# Giglist. Gigs in a list. Perth's most comprehensive live music listing. 
+
+## Using React, TypeScript, PHP, WordPress
 
 <https://giglist.com.au>
 
-Using React, TypeScript, PHP, WordPress
+# Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
 
-### Handtracker test suing HandtrackJS <https://github.com/victordibia/handtrack.js>
+## VanillaJS, HandtrackJS
 
-<https://americanparallel.com/whiplash>
+### <https://americanparallel.com/whiplash>
 
 Uses handtrack.js to track the hand and then uses the hand position to control the start/stop of the video. The only question is... Were you rushing or dragging?
 
