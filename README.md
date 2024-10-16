@@ -32,7 +32,7 @@ A place for projects, ideas, and apps
 ## Latest projects
 
 ### Ooglebox
-Free fast TV on the internet
+Free fast TV on the internet (Australia Only)
 
 VanillaJS, a little jQuery and SemanticUI. Android and iOS support now available
 
