@@ -44,9 +44,9 @@ A place for projects, ideas, and apps
 
 ### React Three Fiber (ThreeJS) v9 Updated Tests
 
-Updated test using canvas and mp4 video, instancedMesh and custom shader, luminence based z values
+Updated test using canvas and mp4 video, instancedMesh and custom shader, luminance based z values
 
-[https://americanparallel.com/](https://americanparallel.com/r3f/r3f9/dist/)
+[Talking Heads - 3D](https://americanparallel.com/r3f/r3f9/dist/)
 
 Classic movie car showcase. GLTF Conversion from GLB. WIP
 
