@@ -42,6 +42,16 @@ A place for projects, ideas, and apps
 
 ## Latest projects
 
+### React Three Fiber (ThreeJS) v9 Updated Tests
+
+Updated test using canvas and mp4 video, instancedMesh and custom shader, luminence based z values
+
+<[https://americanparallel.com/](https://americanparallel.com/r3f/r3f9/dist/)>
+
+Classic movie car showcase. GLTF Conversion from GLB. WIP
+
+<[https://americanparallel.com/](https://americanparallel.com/r3f/delorean/dist/)>
+
 ### Ooglebox
 Free fast TV on the internet (Australia Only)
 
